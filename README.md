@@ -12,6 +12,7 @@ Results sorted into quantiles are located in the quantiles/ folder with subfolde
 
 There exists a csv file for every task graph that has been modeled and run in the experiments. The files contain information on the best results gathered by [Kasahara et al.](http://www.kasahara.cs.waseda.ac.jp/schedule/) and quantiles for every combination of Cora/Stratego model with/without preemption and for 2/4/8/16 machines. In some cases there are no results from Stratego runs in which case the csv file contains some empty fields.
 
+In the plots/ folder there are scatter plots which show the percentwise deviation of the best results generated relative to the results of [Kasahara et al.](http://www.kasahara.cs.waseda.ac.jp/schedule/)
 
 ## **== MODELS AND QUERIES ==**
 ---
